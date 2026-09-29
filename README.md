@@ -134,14 +134,3 @@ Users can select different filters to instantly analyze specific portions of the
 
 ---
 
-## 💡 Business Questions Answered
-
-The dashboard helps answer questions such as:
-
-* What is the total sales and profit?
-* Which category generates the highest sales?
-* Which category generates the highest profit?
-* Which region performs the best?
-* Which customer segment contributes the most sales?
-* Which products are the top sellers?
-* Which sub-categories are most profitable?
